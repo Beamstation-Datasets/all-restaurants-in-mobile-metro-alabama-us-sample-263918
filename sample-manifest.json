@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2b16f3bb-1257-497f-8f17-03887f782984",
+  "export_job_id": "c5b946c2-d71c-4071-af5e-21e9bb05a70f",
   "id_short": 263918,
-  "published_at": "2026-04-17T07:45:05Z",
+  "published_at": "2026-04-22T07:16:54Z",
   "repo_name": "all-restaurants-in-mobile-metro-alabama-us-sample-263918",
   "sample_asset_name": "beamstation_263918_restaurants-us-mobileal_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/263918/beamstation_263918_restaurants-us-mobileal_SAMPLE_DIST.csv",
-  "sample_records": 81,
-  "sample_sha256": "26bd899df490cb6fe1f490382cf9a29deab4fbcae5e712c979af4245b8a19c9c",
-  "sample_size_bytes": 299923,
-  "total_records": 810
+  "sample_records": 60,
+  "sample_sha256": "c62e7a2f24c0ac89776adbe35684866a7ffde09432b4edcfd1cd4772b1137d92",
+  "sample_size_bytes": 218651,
+  "total_records": 605
 }
