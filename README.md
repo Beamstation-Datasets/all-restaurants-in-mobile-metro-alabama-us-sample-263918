@@ -1,6 +1,6 @@
 # All Restaurants in Mobile (Metro), Alabama, US
 
-> Free BeamStation sample export with 60 rows and masked direct-contact fields.
+> Free BeamStation sample export with 85 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `263918` |
 | Location | Mobile, AL |
 | Category | Restaurants |
-| Full dataset size | 605 records |
-| Free sample size | 60 records (9.92%) |
-| Last export | 2026-04-21T20:02:28.015745+00:00 |
+| Full dataset size | 854 records |
+| Free sample size | 85 records (9.95%) |
+| Last export | 2026-04-28T21:46:40.243406+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mobile-metro-alabama-us-sample-263918/releases/download/sample-latest/beamstation_263918_restaurants-us-mobileal_SAMPLE_DIST.csv) |
 
 ## What is in this sample
